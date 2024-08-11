@@ -21,10 +21,10 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:kumarsravan2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="www.linkedin.com/in/sravan-kumar-5938a6216" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
